@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/WebHeroSchool/REACT_Solomon/issues"
   },
-  "homepage": "https://github.com/WebHeroSchool/REACT_Solomon#readme"
+  "homepage": "https://github.com/WebHeroSchool/REACT_Solomon#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
